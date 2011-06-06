@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--  this xml creates the little popup menu that says settings when menu is pressed -->
+	<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:id="@+id/settings"
+	android:title="@string/settings_label"
+	android:alphabeticShortcut="@string/settings_shortcut" />
+	</menu>

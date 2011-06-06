@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- this xl is the background color -->
+<resources>
+	<color name="background">#0000FF</color>
+</resources>
+
+<!--this is the original color #3500ffff -->
